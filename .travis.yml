@@ -28,4 +28,5 @@ install:
 - npm install
 # Ö´ĞĞµÄÃüÁî
 script:
-- hexo clean && hexo g -d  && hexo server
+- hexo clean && hexo g -d
+
