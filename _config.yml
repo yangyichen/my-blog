@@ -5,7 +5,7 @@
 # Site
 title: Cary
 subtitle:
-description: ºÚÅÖ×ÓµÄ²©¿Í
+description: ÂºÃšÃ…Ã–Ã—Ã“ÂµÃ„Â²Â©Â¿Ã
 author: Cary Yang
 language: zh-CN
 timezone: Asia/Shanghai
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: jekyll-theme-merlot
 # Header
 archive_generator:
   per_page: 0
