@@ -5,14 +5,14 @@
 # Site
 title: Cary
 subtitle:
-description: ºÚÅÖ×ÓµÄ²©¿Í
+description: 黑胖子的博客
 author: Cary Yang
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://yangyichen.github.io/my-blog
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
